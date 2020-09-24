@@ -1,5 +1,6 @@
 # Diploma
 Algorithm for prediction of protein complex structure based on structural patterns
+
 To do: automate the PATH choice.
 I didn’t figure out how to make the selection automated (I found the KEGG library in python, but I didn’t understand how to extract proteins from a Uniprot out of the PATH). 
 I went to a random path, looked for the ‘Uniprot’ tab. 
